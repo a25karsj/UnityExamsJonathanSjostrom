@@ -533,7 +533,7 @@ GameObject:
   - component: {fileID: 1885227855}
   - component: {fileID: 1885227854}
   m_Layer: 0
-  m_Name: character_pink_walk_a_0
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
